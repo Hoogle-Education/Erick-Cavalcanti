@@ -1,0 +1,12 @@
+
+public class Program {
+	
+	public static void main(String[] args) {
+
+		String nome = "Joao da Silva";
+		double altura = 1.7;
+		long cpf = 17122530797;
+
+	}
+	
+}
